@@ -1,0 +1,124 @@
+{
+  "id": "ppr004",
+  "title": "Biology",
+  "image_url": "",
+  "Description": "Basic Biology Multiple Choice Questions (MCQ) to practice basic Biology quiz answers",
+  "time_seconds": 120,
+  "questions": [
+    {
+      "id": "ppr004q001",
+      "question": "A relationship in which one animal hunts, kills and eats another",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "Symbiosis"
+        },
+        {
+          "identifier": "B",
+          "answer": "Mutualism"
+        },
+        {
+          "identifier": "C",
+          "answer": "Parasitism"
+        },
+        {
+          "identifier": "D",
+          "answer": "Predation"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr004q002",
+      "question": "The animal that is hunted and killed for food.",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "Decomposer"
+        },
+        {
+          "identifier": "B",
+          "answer": "Predator"
+        },
+        {
+          "identifier": "C",
+          "answer": "Scavenger"
+        },
+        {
+          "identifier": "D",
+          "answer": "Prey"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr004q003",
+      "question": "A close relationship between two different species of organisms living together.",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "Mutualism"
+        },
+        {
+          "identifier": "B",
+          "answer": "Symbiosis"
+        },
+        {
+          "identifier": "C",
+          "answer": "Competition"
+        },
+        {
+          "identifier": "D",
+          "answer": "Commensialism"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr004q004",
+      "question": "A symbiotic relationship in which both species benefit.",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "Mutualism"
+        },
+        {
+          "identifier": "B",
+          "answer": "Commensialism"
+        },
+        {
+          "identifier": "C",
+          "answer": "Parasitism"
+        },
+        {
+          "identifier": "D",
+          "answer": "Predation"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr004q005",
+      "question": "Which organelle is found in most plants, some bacteria and some protists?",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "ribosomes"
+        },
+        {
+          "identifier": "B",
+          "answer": "mitochondria"
+        },
+        {
+          "identifier": "C",
+          "answer": "endoplasmic reticulum"
+        },
+        {
+          "identifier": "D",
+          "answer": "chloroplasts"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

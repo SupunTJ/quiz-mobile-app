@@ -1,0 +1,124 @@
+{
+  "id": "ppr003",
+  "title": "Maths",
+  "image_url": "",
+  "Description": "Basic Maths Multiple Choice Questions (MCQ) to practice basic Maths quiz answers",
+  "time_seconds": 120,
+  "questions": [
+    {
+      "id": "ppr003q001",
+      "question": "Jenna has 82 apples. She gives Sam 28 apples. How many apples does Jenna have now?",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "45"
+        },
+        {
+          "identifier": "B",
+          "answer": "108"
+        },
+        {
+          "identifier": "C",
+          "answer": "54"
+        },
+        {
+          "identifier": "D",
+          "answer": "37"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr003q002",
+      "question": "Max and Billy went to a farm! Max collected 18 eggs and Billy collected 29 eggs. How many eggs did they collect in total.",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "74"
+        },
+        {
+          "identifier": "B",
+          "answer": "22"
+        },
+        {
+          "identifier": "C",
+          "answer": "80"
+        },
+        {
+          "identifier": "D",
+          "answer": "47"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr003q003",
+      "question": "what is 2/10 +15/100 equal?",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "17"
+        },
+        {
+          "identifier": "B",
+          "answer": "35/100"
+        },
+        {
+          "identifier": "C",
+          "answer": "30/100"
+        },
+        {
+          "identifier": "D",
+          "answer": "17/100"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr003q004",
+      "question": "How many times greater is 2,340 than 234?",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "20 times"
+        },
+        {
+          "identifier": "B",
+          "answer": "100 times"
+        },
+        {
+          "identifier": "C",
+          "answer": "10 times"
+        },
+        {
+          "identifier": "D",
+          "answer": "1 time"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr003q005",
+      "question": "How many sides does a quadrilateral have?",
+      "answers": [
+        {
+          "identifier": "A",
+          "answer": "5"
+        },
+        {
+          "identifier": "B",
+          "answer": "3"
+        },
+        {
+          "identifier": "C",
+          "answer": "2"
+        },
+        {
+          "identifier": "D",
+          "answer": "4"
+        }
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}
